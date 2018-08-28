@@ -1,2 +1,5 @@
-# d3_data_journalism
-Data Visualization using D3
+#Assignment - Data Journalism and D3
+
+Scatter plot with animation to change access built using d3.
+
+![Animation](d3_times.gif)
